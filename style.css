@@ -1,0 +1,48 @@
+body{
+    height: 100vh;
+    min-width: 450px;
+}
+.row{
+    background-color: #323279;
+    color: white;
+    align-items: center;
+}
+img{
+    height: 75px;
+    /* width: 75px; */
+    border-radius: 50%;
+    padding: 0 30px;
+}
+.footer{
+    /* position: absolute;
+    bottom: 0px; */
+    background-color: #323279;
+    width: 100%;
+    color: white;
+    font-size: 12px;
+    padding: 10px 0;
+    /* display: flex;
+    justify-content: space-between;
+    align-items: center; */
+}
+.contact{
+    padding: 0 20px;
+}
+ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+p{
+    margin: 0 !important;
+}
+.address{
+    width: 200px;
+}
+.carousel-item{
+    width: 400px;
+}
+.image{
+    border-radius: 0px;
+    width: 100%;
+    height: 500px;
+}
